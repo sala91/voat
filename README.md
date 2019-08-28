@@ -7,7 +7,7 @@ This branch is fully building on .NET Core 2 Preview and a majority of unit test
 Note that the original code is licensed by Voat, Inc.
 [![license](http://img.shields.io/badge/license-GNU-blue.svg)](https://raw.githubusercontent.com/voat/voat/master/LICENSE)
 
-<img height="252" width="345" src="Voat.UI/Graphics/voat-goat.png" alt="Voat mascot" title="Voat" align="right" />
+<img height="252" width="345" src="src/Voat.UI/wwwroot/images/voat-goat.png" alt="Voat mascot" title="Voat" align="right" />
 
 This code is forked from the code behind http://www.voat.co.
 
